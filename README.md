@@ -5,7 +5,10 @@
 <h2>Sample</h2>
 <hr/>
 
-![Screenshot 2023-12-04 144032](https://github.com/user-attachments/assets/96e2a9ff-245d-4b11-9876-329cf81953d7)
+![Screenshot 2023-12-04 144032](https://github.com/user-attachments/assets/873bc270-71c9-40f3-a4f3-6d0ea0f80e8d)
+
+
+
 
 <hr/>
 
